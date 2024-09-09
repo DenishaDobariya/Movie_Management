@@ -1,0 +1,10 @@
+.view-table{
+    width: 100%;
+    background-color: rgba(243, 245, 244, 0.3);
+    border: 1px solid black;
+}
+
+.view-table th,td{
+    border: 1px solid black;
+    padding: 5px;
+}
