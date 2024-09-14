@@ -56,5 +56,5 @@ CRUD operations with Node.js, Express.js, and MongoDB
 Handling file uploads using Multer
 Rendering dynamic HTML pages with EJS
 
-
+https://github.com/user-attachments/assets/8f2df121-7a83-459e-aa82-ee680b92d33f
 
