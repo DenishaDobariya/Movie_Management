@@ -20,9 +20,9 @@ npm start
 # .gitignore
 The project includes a .gitignore file that excludes the following:
 
-node_modules/: To avoid uploading large and unnecessary files to the repository.
+node_modules/ :  To avoid uploading large and unnecessary files to the repository.
 
-.env: To protect sensitive information like API keys and database credentials.
+.env :  To protect sensitive information like API keys and database credentials.
 
 # Movie Management System with Image Upload 
 # Description: 
