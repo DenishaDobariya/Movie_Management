@@ -41,7 +41,7 @@ Database: MongoDB
 Image Upload: Multer for handling poster uploads
 
 
-# Learning Outcomes:
+# ⚙️ Learning Outcomes:
 
 CRUD operations with Node.js, Express.js, and MongoDB
 
