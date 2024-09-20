@@ -29,16 +29,6 @@ node_modules/: To avoid uploading large and unnecessary files to the repository.
 
 The Movie Management System is a web application that allows users to manage a collection of movies with CRUD functionality (Create, Read, Update, Delete). Built using Node.js, Express.js, MongoDB, and EJS, this application lets users add, view, edit, and delete movie details. It also integrates Multer for uploading and managing movie posters.
 
-# Features:
-
-Add Movie: Input movie details (title, description, release date, genre, rating) and upload a poster.
-
-View Movies: Display all movies with their details and posters.
-
-Edit Movie: Update movie information and optionally upload a new poster.
-
-Delete Movie: Remove a movie and its associated poster from the database.
-
 
 # Technologies:
 
