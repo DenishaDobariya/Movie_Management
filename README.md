@@ -1,9 +1,9 @@
 # How to Download and Run the Project
 1. Clone the Repository :
-git clone https://github.com/DenishaDobariya/movie_management.git
+git clone https://github.com/DenishaDobariya/movie_Management.git
 
 2. Navigate to the Project Directory :
-cd movie_management
+cd movie_Management
 
 3. Install Dependencies: After cloning the project, install the necessary dependencies using npm :
 npm install
