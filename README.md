@@ -1,5 +1,8 @@
 
-# Movie Management System with Image Upload
+# Movie Management System with Image Upload :
+# Description : 
+The Movie Management System is a web application that allows users to manage a collection of movies with CRUD functionality (Create, Read, Update, Delete). Built using Node.js, Express.js, MongoDB, and EJS, this application lets users add, view, edit, and delete movie details. It also integrates Multer for uploading and managing movie posters.
+
 
 # How to Download and Run the Project
 1. Clone the Repository :
@@ -34,11 +37,6 @@ node_modules :  To avoid uploading large and unnecessary files to the repository
 .env :  To protect sensitive information like API keys and database credentials.
 
  
-# Description: 
-
-The Movie Management System is a web application that allows users to manage a collection of movies with CRUD functionality (Create, Read, Update, Delete). Built using Node.js, Express.js, MongoDB, and EJS, this application lets users add, view, edit, and delete movie details. It also integrates Multer for uploading and managing movie posters.
-
-
 # 🛠️ Technologies:
 
 Backend: Node.js, Express.js
